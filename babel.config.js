@@ -12,7 +12,7 @@ module.exports = function(api) {
         '"test", and "production". Instead, received: ' +
         JSON.stringify(currentEnv) +
         '.'
-    )
+    ) 
   }
 
   return {
